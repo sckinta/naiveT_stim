@@ -11,7 +11,7 @@ what has been done
 - consensus loop calls
 `/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_stim_summary`
 - global differential `/mnt/isilon/sfgi/suc1/analyses/wells/hiC/compare/naiveT_stim/data/`
-  - differential consensus loop `/mnt/isilon/sfgi/suc1/analyses/wells/hiC/compare/naiveT_stim/data/Rdata/sigDE_consensus_loop.Rdata`
+  - differential consensus loop `/mnt/isilon/sfgi/suc1/analyses/wells/hiC/compare/naiveT_stim/Rdata/sigDE_consensus_loop.Rdata`
 
 ## RNA-seq
 `/mnt/isilon/sfgi/suc1/analyses/wells/rnaSeq/PBMC_naiveT3`
@@ -37,7 +37,7 @@ what has been done
 
 # NK, pDC
 ## ATAC
-/mnt/isilon/sfgi/suc1/analyses/wells/atacSeq/CD_NK_cells
+`/mnt/isilon/sfgi/suc1/analyses/wells/atacSeq/CD_NK_cells`
 - encode
 
 ## RNAseq
@@ -45,4 +45,6 @@ what has been done
 - STAR
 - HTseq
   - QC summary: `/mnt/isilon/sfgi/suc1/analyses/wells/rnaSeq/CD_NK_cells/HTseq/readCount_summary.csv`
-  
+
+## Hi-C
+barcodes:  HGYMNDSX2, HH2TVDSX2
