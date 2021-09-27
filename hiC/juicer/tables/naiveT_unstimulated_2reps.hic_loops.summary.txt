@@ -1,0 +1,16 @@
+file	total_LoopN	anno_LoopN	geneOCR_pairN	gene_N	ocr_N
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e10.res1000.bedpe	100785	13471	9240	3710	5910
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e10.res2000.bedpe	498925	83375	69634	13181	30023
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e10.res4000.bedpe	1318473	276332	297570	24296	70861
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e14.res1000.bedpe	56295	7595	4250	1906	2901
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e14.res2000.bedpe	385927	62974	47433	9841	22168
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_ACT.pv1e14.res4000.bedpe	1154107	246257	254535	22326	64913
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e4.res1000.bedpe	115863	15517	15291	6279	9513
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e4.res2000.bedpe	633596	101782	101501	17490	39796
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e4.res4000.bedpe	1768316	342221	393996	27932	81593
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e6.res1000.bedpe	40267	5959	5933	3025	4098
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e6.res2000.bedpe	292207	53685	55962	12763	26281
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.fithic_FDR.fdr1e6.res4000.bedpe	976750	217743	262378	23990	67284
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.mustache.pt01.res1000.bedpe	16781	3603	6348	4082	4617
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.mustache.pt01.res2000.bedpe	33475	9838	21046	9212	12012
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_unstimulated_2reps/hic_loops/all/naiveT_unstimulated_2reps.mustache.pt01.res4000.bedpe	34833	13958	36830	11112	17080

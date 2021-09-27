@@ -1,0 +1,6 @@
+#prefix	geneOCR_pairN	gene_N	OCR_N
+fithic_ACT.pv1e10	300501	24374	71048
+fithic_ACT.pv1e14	256292	22381	65033
+fithic_FDR.fdr1e4	399135	28065	81930
+fithic_FDR.fdr1e6	264998	24093	67506
+mustache.pt01	52466	13699	22946

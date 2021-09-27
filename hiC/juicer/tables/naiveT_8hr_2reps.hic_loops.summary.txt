@@ -1,0 +1,16 @@
+file	total_LoopN	anno_LoopN	geneOCR_pairN	gene_N	ocr_N
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e10.res1000.bedpe	66558	6903	4676	2131	3258
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e10.res2000.bedpe	417286	56485	45776	9832	21682
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e10.res4000.bedpe	1285073	240728	250278	22623	65801
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e14.res1000.bedpe	30701	3136	1641	837	1253
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e14.res2000.bedpe	303634	41110	30089	6940	15109
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_ACT.pv1e14.res4000.bedpe	1086227	208910	209762	20043	57883
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e4.res1000.bedpe	78276	7669	7325	3478	5040
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e4.res2000.bedpe	548668	69814	67027	13992	30440
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e4.res4000.bedpe	1756663	303812	334470	27056	79016
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e6.res1000.bedpe	23702	2725	2638	1541	1991
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e6.res2000.bedpe	239127	34271	33953	9058	17967
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.fithic_FDR.fdr1e6.res4000.bedpe	949103	184588	212683	22486	62224
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.mustache.pt01.res1000.bedpe	10134	1520	2315	1547	1826
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.mustache.pt01.res2000.bedpe	24683	4925	8734	4723	6156
+/mnt/isilon/sfgi/suc1/analyses/wells/hiC/juicer/naiveT_8hr_2reps/hic_loops/all/naiveT_8hr_2reps.mustache.pt01.res4000.bedpe	25768	7733	17048	7397	10948

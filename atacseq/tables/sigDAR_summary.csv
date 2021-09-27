@@ -1,0 +1,10 @@
+"direction","comp","OCR_n","prOCR_n","gene_n"
+"down","CD4_24hr_vs_8hr",6629,2244,2306
+"up","CD4_24hr_vs_8hr",4417,1171,1225
+"total","CD4_24hr_vs_8hr",11046,3415,3528
+"down","CD4_24hr_vs_unstim",10061,2334,2226
+"up","CD4_24hr_vs_unstim",17913,3030,2998
+"total","CD4_24hr_vs_unstim",27974,5364,5000
+"down","CD4_8hr_vs_unstim",6404,952,900
+"up","CD4_8hr_vs_unstim",18887,3159,3118
+"total","CD4_8hr_vs_unstim",25291,4111,3883

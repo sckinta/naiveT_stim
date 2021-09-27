@@ -1,0 +1,13 @@
+prefix	FRinNFR	FRinPeak
+ND517_24hr_R1	0.237723334505 out of range [0.4, inf]	0.277336184747
+ND517_8hr_R1	0.183464986115 out of range [0.4, inf]	0.318133567093
+ND517_unstim_R1	0.237939012658 out of range [0.4, inf]	0.243131916084
+ND578_24hr_R1	0.259512191364 out of range [0.4, inf]	0.14902815504
+ND578_8hr_R1	0.261182040614 out of range [0.4, inf]	0.3201957749
+ND578_unstim_R1	0.290167383113 out of range [0.4, inf]	0.343866889084
+TMP442_24hr_rep1_R1	0.225992494837 out of range [0.4, inf]	0.225217493166
+TMP442_24hr_rep2_R1	0.254845388926 out of range [0.4, inf]	0.141426786119
+TMP442_8hr_rep1_R1	0.23390496374 out of range [0.4, inf]	0.420854746022
+TMP442_8hr_rep2_R1	0.232585155828 out of range [0.4, inf]	0.364260459787
+TMP442_unstim_rep1_R1	0.273566611304 out of range [0.4, inf]	0.336407228182
+TMP442_unstim_rep2_R1	0.298294040995 out of range [0.4, inf]	0.320258533521
